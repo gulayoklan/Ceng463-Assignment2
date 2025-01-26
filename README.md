@@ -1,3 +1,3 @@
-# Ceng463-Assignment2
+# Parliamentary Speech Classification 
 This repository contains the source code for fine-tuning Multilingual BERT and performing zero-shot inference using Llama-3.1-8B for parliamentary speech classification tasks. <br>
-task1.ipynb includes fine-tuning task 1, task2.ipynb includes fine-tuning for task 2. inference_script.ipynb includes inference script used in both tasks.
+task1.ipynb includes fine-tuning script for task 1 classifying parliamentary speeches to two classes according to the speakers political orientation: left or right, task2.ipynb includes fine-tuning script for task 2 classifying parliamentary speeches according to the power position of the speakers party: governing or opposition. inference_script.ipynb includes inference script used in both tasks.
